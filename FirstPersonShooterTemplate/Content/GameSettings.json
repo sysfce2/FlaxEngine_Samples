@@ -1,11 +1,12 @@
 {
 	"ID": "9eba3d2a4cee4c099117f49c5dffc171",
 	"TypeName": "FlaxEditor.Content.Settings.GameSettings",
-	"EngineBuild": 6337,
+	"EngineBuild": 6910,
 	"Data": {
 	"ProductName": "FirstPersonShooter",
 	"CompanyName": "Flax",
 	"CopyrightNotice": null,
+	"Version": null,
 	"Icon": null,
 	"FirstScene": "a470726f441936acfe25318b162c336c",
 	"NoSplashScreen": false,
@@ -32,6 +33,7 @@
 	"SwitchPlatform": null,
 	"PS5Platform": null,
 	"MacPlatform": "75bd19e74a6374527894128f50255afc",
-	"iOSPlatform": "566e82f843ff75bccec548b3323af932"
+	"iOSPlatform": "566e82f843ff75bccec548b3323af932",
+	"WebPlatform": "473937c74f43cdbeef22689e88a8dee7"
 }
 }

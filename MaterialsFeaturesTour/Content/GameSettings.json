@@ -1,11 +1,12 @@
 {
 	"ID": "9eba3d2a4cee4c099117f49c5dffc171",
 	"TypeName": "FlaxEditor.Content.Settings.GameSettings",
-	"EngineBuild": 6340,
+	"EngineBuild": 6910,
 	"Data": {
 	"ProductName": "MaterialsFeaturesTour",
 	"CompanyName": "Flax",
 	"CopyrightNotice": null,
+	"Version": null,
 	"Icon": null,
 	"FirstScene": "a470726f441936acfe25318b162c336c",
 	"NoSplashScreen": false,
@@ -32,6 +33,7 @@
 	"SwitchPlatform": null,
 	"PS5Platform": null,
 	"MacPlatform": "a984d48140a9b6beb9a602b88037ea33",
-	"iOSPlatform": "d0ec9961491370ecdcbb55820c1d7b2e"
+	"iOSPlatform": "d0ec9961491370ecdcbb55820c1d7b2e",
+	"WebPlatform": "e9946d5e4d8a4458a0d0e8b02d6d348b"
 }
 }

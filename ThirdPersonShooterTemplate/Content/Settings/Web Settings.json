@@ -1,0 +1,9 @@
+{
+	"ID": "54b24f494ff177b8025c878e5eb9d43b",
+	"TypeName": "FlaxEditor.Content.Settings.WebPlatformSettings",
+	"EngineBuild": 6910,
+	"Data": {
+	"CustomHtml": null,
+	"TexturesCompression": 3
+}
+}

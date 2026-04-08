@@ -1,11 +1,12 @@
 {
 	"ID": "9eba3d2a4cee4c099117f49c5dffc171",
 	"TypeName": "FlaxEditor.Content.Settings.GameSettings",
-	"EngineBuild": 6340,
+	"EngineBuild": 6910,
 	"Data": {
 	"ProductName": "BasicTemplate",
 	"CompanyName": "Flax",
 	"CopyrightNotice": null,
+	"Version": null,
 	"Icon": null,
 	"FirstScene": "a470726f441936acfe25318b162c336c",
 	"NoSplashScreen": false,
@@ -32,6 +33,7 @@
 	"SwitchPlatform": null,
 	"PS5Platform": null,
 	"MacPlatform": "ed0f294643658b91ad531e9e9ac1f16d",
-	"iOSPlatform": "3a4c4643436b5aec404f9890a933f558"
+	"iOSPlatform": "3a4c4643436b5aec404f9890a933f558",
+	"WebPlatform": "9e8b66f84805abf2cc43e0bb2da7ba34"
 }
 }

@@ -1,11 +1,12 @@
 {
 	"ID": "9eba3d2a4cee4c099117f49c5dffc171",
 	"TypeName": "FlaxEditor.Content.Settings.GameSettings",
-	"EngineBuild": 6340,
+	"EngineBuild": 6910,
 	"Data": {
 	"ProductName": "PhysicsFeaturesTour",
 	"CompanyName": "Flax",
 	"CopyrightNotice": null,
+	"Version": null,
 	"Icon": null,
 	"FirstScene": "a470726f441936acfe25318b162c336c",
 	"NoSplashScreen": false,
@@ -32,6 +33,7 @@
 	"SwitchPlatform": null,
 	"PS5Platform": null,
 	"MacPlatform": "d6f31ac14c3573b4f36be081c46cca9e",
-	"iOSPlatform": "d61254694fa0c55d2b87969f9d816f92"
+	"iOSPlatform": "d61254694fa0c55d2b87969f9d816f92",
+	"WebPlatform": "232bf13e4ddb92e82ed102abae6459d7"
 }
 }
